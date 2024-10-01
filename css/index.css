@@ -1,0 +1,174 @@
+
+header {
+	height:70px;
+    background-color: #333;
+    color: white;
+    padding:2px 0;
+}
+body {
+    font-family: Arial, sans-serif;
+	background-color:#4994ff;
+}
+
+
+#p1{
+	background-color:#ffffff;
+	border:5px solid #334;
+	height:350px;
+	width:300px;
+	position:relative;
+	right:780px;
+	overflow:auto;
+}
+h4{
+	font-size:14px;
+}
+#p2{
+	background-color:#ffffff;
+	border:5px solid #334;
+	height:200px;
+	width:300px;
+	position:relative;
+	left:150px;
+	
+
+
+	
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: white;
+}
+nav button{
+	position:relative;
+	left:750px;
+}
+a:hover{
+	color:#339999;
+}
+#home {
+    background: url('C:/Users/HP/Desktop/assi/images/nbb.jpg') no-repeat center center/cover;
+	height: 400px;
+	font:50px italic;
+    color:#acddbc;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	text-align:center;
+    width:70%;	
+	position:relative;
+	left:200px;
+}
+section p{
+	color:#000000;
+	font-size:8px;
+	  padding:0;
+}
+main ul li{
+	font-size:14px;
+	font-family:vivaldi;
+}
+section p{
+	color:#000000;
+	font-size:12px;
+	  padding:0;
+}
+h1{
+color:#3399ff;
+font-family:tehoma;
+}
+ol li{
+	display:inline;
+}
+ol li img{
+	width:100px;
+	height:140px;
+}
+#icon img{
+	
+	width:30px;
+	height:30px;
+	
+}
+#icon{
+height:100px;
+width:100px;
+position:relative;
+left:600px;
+top:-110px;
+display:inline-block;
+
+}
+.dr{
+	border:0px solid blue;
+	height:100px;
+	width:100px;
+	position:relative;
+	left:820px;
+	top:-420px;
+}
+.ps{
+	width:700px;
+	color:#3399ff;
+	position:relative;
+	left:450px;
+	top:-750px;
+}
+#ph {
+	border:0px solid blue;
+	width:400px;
+}
+#ind {
+	border:0px solid blue;
+	width:400px;
+	position:relative;
+	left:850px;
+	top:-250px;
+}
+#il {
+	border:0px solid blue;
+	width:400px;
+	height:250px;
+	position:relative;
+	left:420px;
+	top:-520px;
+}
+#cr{
+	width:400px;
+	position:relative;
+	top:-345px;
+}
+#arc{
+	width:700px;
+	color:#ffffff;
+	position:relative;
+	left:250px;
+	top:-1200px;
+	
+
+}
+div img{
+	width:100px;
+	height:100px;
+	display:inline;
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 1px 0;
+	 width: 100%;
+	 display:inline-block;
+	
+}
+	
+	

@@ -1,0 +1,128 @@
+body {
+	background-color:#4ff993;
+
+}
+h2{
+	color:#ff9999;
+}
+
+div{
+	border:0px solid green;
+	
+}
+.pic img{
+	border:2px solid green;
+	width:250px;
+	height:400px;
+	border-radius:100px;
+	margin-left:200px;
+	text-align:center;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding:2px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding:5px;
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: white;
+	 text-decoration: none;
+
+}
+#link{
+	display:inline;
+	border:0 solid blue;
+	font-size:14px;
+	position:relative;
+	left:1100px;
+}
+ol li{
+	display:inline;
+}
+ol li img{
+	width:70px;
+	height:80px;
+}
+h2{
+	position:relative;
+	bottom:40px;
+}
+h3{
+	position:relative;
+	bottom:78px;
+	left:65px;
+}
+#p1{
+	background-color:#ffffff;
+	border:5px solid #334;
+	height:400px;
+	width:130px;
+	position:relative;
+	left:140px;
+	padding:10px;
+	font-size:14px;
+}
+#p2{
+	background-color:#ffffff;
+	border:5px solid #334;
+	height:400px;
+	width:130px;
+	position:relative;
+	right:1150px;
+	padding:10px;
+}
+main ul li{
+	font-size:14px;
+	font-family:vivaldi;
+}
+section p{
+	color:#000000;
+	font-size:12px;
+	  padding:0;
+}
+
+#home {
+    background: url('C:/Users/HP/Pictures/nbb.jpg') no-repeat center center/cover;
+	height: 400px;
+	font:50px italic;
+    color:#acddbc;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;	
+}
+h5{
+	position:relative;
+	bottom:10px;
+
+}
+#bb img{
+	border:2px solid #333;
+	width:200px;
+	height:300px;
+	
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1px 0;
+	 width: 100%;
+    bottom: 0;
+
+
+}
